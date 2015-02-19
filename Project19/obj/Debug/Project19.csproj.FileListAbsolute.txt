@@ -1,0 +1,6 @@
+c:\users\michaelf\documents\visual studio 2013\Projects\Project19\Project19\bin\Debug\Project19.exe.config
+c:\users\michaelf\documents\visual studio 2013\Projects\Project19\Project19\obj\Debug\Project19.csprojResolveAssemblyReference.cache
+c:\users\michaelf\documents\visual studio 2013\Projects\Project19\Project19\bin\Debug\Project19.exe
+c:\users\michaelf\documents\visual studio 2013\Projects\Project19\Project19\bin\Debug\Project19.pdb
+c:\users\michaelf\documents\visual studio 2013\Projects\Project19\Project19\obj\Debug\Project19.exe
+c:\users\michaelf\documents\visual studio 2013\Projects\Project19\Project19\obj\Debug\Project19.pdb
